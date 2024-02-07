@@ -1,0 +1,63 @@
+.banner{
+
+    background-image: url(High_resolution_wallpaper_background_ID_77701868587.webp) ;
+    /* height: 300px; */
+    background-size:cover;
+    background-position: center;
+
+}
+.index{
+    /* background-color: aliceblue; */
+    height: 200px;
+    text-align: center;
+    padding: 20%;
+    color:white;
+}
+.index2{
+    /* background-color: aliceblue; */
+    height: 600px;
+    width: auto;
+    padding: 20%;
+    text-align: center;
+    
+
+}
+.sec2{
+    padding: 40px; 
+    border-radius: 10px;
+    background-image: url(war-conflict-landscape-with-soldiers-fighting.jpg);
+    background-repeat:no-repeat;
+    color:white;
+    background-size: 100% 100%;
+    background-size:cover;
+
+
+}
+.index3{
+    /* background-color: slateblue; */
+    height: 50px;
+    text-align: center;
+}
+.index4{
+    /* background-color: slateblue; */
+    height: 200px;
+    text-align: center;
+}
+#sec3{
+    background-color: black;
+}
+.inbox2{
+    text-align: center;
+    color: white;
+}
+.inbox3{
+    background-color: palevioletred;
+    height: 350px;
+}
+.inbox4{
+    padding: 40px; 
+    border-radius: 10px;
+    background-image: url(rose\ background.jpg);
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+}
